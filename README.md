@@ -13,7 +13,7 @@
 python media_aluno.py
 
 ## Exemplo de Uso
-![Exemplo de execução](assets/exemplo-python.png)
+![Exemplo de execução](exemplo-python.png)
 
 ## Autor
 #### Desenvolvido por **Marina França Santos**
